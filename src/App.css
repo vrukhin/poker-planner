@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+.voter {
+  display: flex;
+  align-items: center;
+}
+
+.vote-buttons {
+  margin-left: 32px;
+}
+
+.vote-button {
+  margin: 0px 8px;
+}
